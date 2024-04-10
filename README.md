@@ -1,5 +1,5 @@
 # Supermercado_credito
 
-Esse script é para estudos.
+Este projeto é somente para estudos.
 
-ele faz um cadastro de crédito para pessoas que compram em um supermercado 
+Ele faz um cadastro de pessoas que possuem crédito em um supermercado, desenvolvido por mim e um amigo
